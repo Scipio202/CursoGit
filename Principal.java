@@ -6,7 +6,7 @@
     cuenta y un saldo.
 */
 package Ejercicio7;
-
+//Comentario realizado desde GitHub.
 import java.util.Scanner;
 
 public class Principal {
